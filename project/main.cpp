@@ -3,7 +3,7 @@
 #include<math.h>
 #include <vector>
 #include <cstdlib>
-# define PI 3.14159265358979323846
+# define PI 3.141592653589793238467
 #include <GL/gl.h>
 #include <GL/glut.h>
 #include<MMSystem.h>
